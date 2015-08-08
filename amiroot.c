@@ -5,7 +5,7 @@
 //  Created by Dominic Järmann on 07.08.15.
 //
 //
-#include  <stdio.h>
+#include <stdio.h>
 
 int main(){
 
@@ -13,7 +13,6 @@ int main(){
     {
         printf("No\n");
     }else{
-        
         printf("Yes\n");
     }
 
